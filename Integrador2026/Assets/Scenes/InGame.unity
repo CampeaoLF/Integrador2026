@@ -694,14 +694,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cefdcff1ae46ea9479d92669b1fb9129, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Botoes:
-  - {fileID: 798655634}
-  - {fileID: 729443996}
-  - {fileID: 842567210}
+  buttons: []
   sprites:
   - {fileID: 21300000, guid: 1d6ea5295b1f307488a327493a8a1096, type: 3}
   - {fileID: 21300000, guid: 566f74c2990d8094395ea1fab948eb14, type: 3}
   - {fileID: 21300000, guid: 566f74c2990d8094395ea1fab948eb14, type: 3}
+  Player: {fileID: 0}
 --- !u!4 &744904203
 Transform:
   m_ObjectHideFlags: 0
