@@ -31,7 +31,6 @@ public class ButtonSprite : MonoBehaviour
             sprite1.sprite = sprites[1];
            
 
-            // o meu nem troca 
         }
         while(Input.touchCount == 1 && buttons[1])
         {
